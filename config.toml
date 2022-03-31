@@ -450,7 +450,7 @@ paginate = 10
     dropdown_mouse_over = false
 
     disabled_logo = true
-    logo_text = "Dipbitstech ltd"
+    logo_text = "Dipbits Technology LTD"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
